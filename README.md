@@ -11,6 +11,9 @@ Learn all about SPECTR VR: our origin, our mission, and our legacy...
 
 📦 We will open-source our VR cardboard design, which allows the user to design their own VR headset and use their cell phone to display the content anywhere and everywhere. By harnessing VR, stories can be experienced across the world without the need to harm Mother Earth with traveling and can be accessible to those who do not have full physical mobility.
 
+![image](https://github.com/user-attachments/assets/40f40732-cf6d-487d-bdda-8b800922798d)
+
+
 ❤️ At SPECTR VR, we believe that everyone deserves the opportunity to see the world differently and to be moved by stories that matter. Our legacy is one of innovation, inclusivity, and unwavering commitment to making the world a better place, one immersive experience at a time. Join us as we continue to explore new frontiers in visual storytelling and create a lasting impact on the world.
 
 We're covering these issues with more to come: 
