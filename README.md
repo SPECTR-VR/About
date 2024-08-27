@@ -18,7 +18,7 @@ Learn all about SPECTR VR: our origin, our mission, and our legacy...
 
 We're covering these issues with more to come: 
 
-1. CLIMATE ACTION: https://github.com/SPECTR-VR/-Climate-Action-?tab=readme-ov-file#-climate-action-
+1. CLIMATE ACTION: [https://github.com/SPECTR-VR/-Climate-Action-?tab=readme-ov-file#-climate-action-](https://github.com/SPECTR-VR/-Climate-Action-)
 2. PRESERVING INDIGENOUS CULTURE: https://github.com/SPECTR-VR/Indigenous-Culture
 3. MENTAL HEALTH: 
 4. REFUGEES:
