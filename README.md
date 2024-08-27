@@ -20,10 +20,9 @@ We're covering these issues with more to come:
 
 1. CLIMATE ACTION: [https://github.com/SPECTR-VR/-Climate-Action-?tab=readme-ov-file#-climate-action-](https://github.com/SPECTR-VR/-Climate-Action-)
 2. PRESERVING INDIGENOUS CULTURE: https://github.com/SPECTR-VR/Indigenous-Culture
-3. MENTAL HEALTH: 
-4. REFUGEES:
-5. SOCIAL JUSTICE:
-6. Please recommend more topics or videos you'd like to see included by contacting chloeyw@stanford.edu! 
+3. MENTAL HEALTH: https://github.com/SPECTR-VR/Mental-Health
+4. REFUGEES: https://github.com/SPECTR-VR/Refugees 
+5. Please recommend more topics or videos you'd like to see included by contacting chloeyw@stanford.edu! 
 
 
 
