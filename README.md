@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c52c29f5-1667-4628-9949-f50f547277c6)# About-
+# About-
 Learn all about SPECTR VR: our origin, our mission, and our legacy...
 
 
