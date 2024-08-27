@@ -1,5 +1,9 @@
-# About-
-Learn all about SPECTR VR: our origin, our mission, and our legacy
+![image](https://github.com/user-attachments/assets/c52c29f5-1667-4628-9949-f50f547277c6)# About-
+Learn all about SPECTR VR: our origin, our mission, and our legacy...
+
+
+![image](https://github.com/user-attachments/assets/2542ebea-3d93-4316-8dca-d45cd3a97b63)
+
 
 
 Welcome to SPECTR VR, where immersive technology/virtual reality (VR) meets social impact. Our journey began with a simple yet powerful idea: to harness the transformative potential of virtual reality to address pressing global issues. From mental health and climate action to cultural preservation and the support of marginalized voices, our mission is to inspire change by bringing stories to life in ways that touch hearts and minds. 
