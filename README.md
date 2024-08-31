@@ -22,10 +22,8 @@ We're covering these issues with more to come:
 2. PRESERVING INDIGENOUS CULTURE: https://github.com/SPECTR-VR/Indigenous-Culture
 3. MENTAL HEALTH: https://github.com/SPECTR-VR/Mental-Health
 4. REFUGEES: https://github.com/SPECTR-VR/Refugees 
-5. Please recommend more topics or videos you'd like to see included by contacting chloeyw@stanford.edu! 
 
 
 
 
-[FOUNDER'S MESSAGE: I've always been an interdisciplinary individual looking for ways to combine my passion for tech with the arts. I was first immersed in the world of visual storytelling through documentaries (Seaspiracy, What the Health, etc.) when I realized the injustices whistleblowers were facing just for their courage on speaking up. The films had moved me so much to the point I began advocating for whistleblowers. I know many people, globally, also have been impacted by the power of storytelling. That's when I stumbled across a VR-formatted spoken word short film featuring an indigenous tribe and their culture, and it made me tear up. That's when I realized how important it was to harness the power of visual storytelling to educate the globe on pressing societal issues. I hope, together, through accessible and immersive visual storytelling, we can write the stories of tomorrow.] 
 
